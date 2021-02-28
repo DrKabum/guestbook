@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5e7d933a7a677ff78b2c57d6788b9925",
+    "content-hash": "4866bf0ef099c8c5d170918cd5dcb596",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -5622,6 +5622,9 @@
                 "utf-8",
                 "utf8"
             ],
+            "support": {
+                "source": "https://github.com/symfony/string/tree/5.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
